@@ -26,10 +26,10 @@ printf("-0 ");
 printf("%d.""%d.""%d.""%d\n",IP11,IP12,IP13,IP14);
 
 //TASK1
-int M[255],h=1,a=7,pula;
-for(pula=1; pula<=255; pula++)
+int M[255],h=1,a=7,fr;
+for(fr=1; fr<=255; fr++)
 	{
-	M[pula]=0;
+	M[fr]=0;
 	}
 while(h<255)
 {
